@@ -64,6 +64,7 @@ public class Code03_Sort {
         }
     }
 
+    // 左神
     public static void bubbleSort3(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
@@ -92,6 +93,7 @@ public class Code03_Sort {
         }
     }
 
+    // 左神
     public static void insertSort2(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
@@ -106,12 +108,10 @@ public class Code03_Sort {
         }
     }
 
+    // 左神2.0
     public static void insertSort3(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
-        }
-        for (int i = 1; i - 1 >= 0 && arr[i-1] > arr[i]  ; i++) {
-            swap(arr, i-1, i);
         }
         for (int i = 1; i < arr.length; i++) {
             for (int pre = i - 1; pre >= 0 && arr[pre] > arr[pre + 1]; pre--) {

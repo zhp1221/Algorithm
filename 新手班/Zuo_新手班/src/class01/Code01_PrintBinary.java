@@ -12,7 +12,7 @@ public class Code01_PrintBinary {
      */
     public static void print(int num){
         int result = 0;
-        //int -》 8 bytes 32位
+        //int -》 4 bytes 32位
         for (int i = 31; i >= 0; i--) {
             // 位运算: "左移" 在 "与" 运算
             System.out.print((num & (1 << i)) == 0 ? 0 : 1 );

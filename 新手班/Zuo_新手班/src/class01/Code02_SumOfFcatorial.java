@@ -22,7 +22,7 @@ public class Code02_SumOfFcatorial {
         }
         return result;
     }
-    // Method2: 2! = 1!*2  3! = 2!*3 ... N! = N-1!*N
+    // Method2: 2! = 1!*2  3! = 2!*3 ... N! = (N-1)!*N
     public static int method2(int N){
         int result = 0;
         int cur = 1;

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7848dd31-ae34-4352-8dcd-5c991a29f63d" name="Default Changelist" comment="" />
+    <list default="true" id="7848dd31-ae34-4352-8dcd-5c991a29f63d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/class01/Code01_PrintBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code01_PrintBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/Code02_SumOfFcatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code02_SumOfFcatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/Code03_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code03_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../note/Class01.md" beforeDir="false" afterPath="$PROJECT_DIR$/../note/Class01.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -30,7 +35,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../左神_新手班/algorithm-primary" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,6 +126,9 @@
       <workItem from="1631897548210" duration="690000" />
       <workItem from="1631924987426" duration="2672000" />
       <workItem from="1631929276375" duration="26000" />
+      <workItem from="1631929660191" duration="4828000" />
+      <workItem from="1631945077510" duration="1198000" />
+      <workItem from="1631964967270" duration="632000" />
     </task>
     <servers />
   </component>
@@ -138,5 +147,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>
