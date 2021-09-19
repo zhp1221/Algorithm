@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7848dd31-ae34-4352-8dcd-5c991a29f63d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/class01/Code01_PrintBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code01_PrintBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01/Code02_SumOfFcatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code02_SumOfFcatorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01/Code03_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code03_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/Class01.md" beforeDir="false" afterPath="$PROJECT_DIR$/../note/Class01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/Code02_01RandToRand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/Code03_Comp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zuo_新手班/class01/Code03_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zuo_新手班/class01/Code03_Sort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../左神_新手班/algorithm-primary" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class02" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code03_Sort">
-    <configuration name="Code01_PrintBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.Code01_PrintBinary" />
+  <component name="RunManager" selected="Application.Code02_05Interview">
+    <configuration name="Code02_01RandToRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.Code02_01RandToRand" />
       <module name="Zuo_新手班" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_SumOfFcatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.Code02_SumOfFcatorial" />
+    <configuration name="Code02_02Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.Code02_02Interview" />
       <module name="Zuo_新手班" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.Code03_Sort" />
+    <configuration name="Code02_04Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.Code02_04Interview" />
       <module name="Zuo_新手班" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01.Test" />
+    <configuration name="Code02_05Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.Code02_05Interview" />
       <module name="Zuo_新手班" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_Comp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02.Code03_Comp" />
+      <module name="Zuo_新手班" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,10 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code03_Sort" />
-        <item itemvalue="Application.Code02_SumOfFcatorial" />
-        <item itemvalue="Application.Code01_PrintBinary" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Code02_05Interview" />
+        <item itemvalue="Application.Code02_02Interview" />
+        <item itemvalue="Application.Code02_01RandToRand" />
+        <item itemvalue="Application.Code03_Comp" />
+        <item itemvalue="Application.Code02_04Interview" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +146,8 @@
       <workItem from="1631929276375" duration="26000" />
       <workItem from="1631929660191" duration="4828000" />
       <workItem from="1631945077510" duration="1198000" />
-      <workItem from="1631964967270" duration="632000" />
+      <workItem from="1631964967270" duration="10216000" />
+      <workItem from="1632014746181" duration="13209000" />
     </task>
     <servers />
   </component>
